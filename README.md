@@ -15,6 +15,6 @@ _caso queira falar comigo: gaab#0003_<br/>
   ## Status
   
   <a href="https://github.com/truegab">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=truegab&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=truegab&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   
   
