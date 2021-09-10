@@ -1,6 +1,6 @@
 ## truegab 
 
-_caso queira falar comigo: gaab#0003_<br/>
+_caso queira falar comigo:_
 <div>
 <a href="https://dsc.bio/gaab" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <img align="right" src="https://media.discordapp.net/attachments/875766197793198100/885392583260504064/undefined_-_Imgur.gif" height="280">
